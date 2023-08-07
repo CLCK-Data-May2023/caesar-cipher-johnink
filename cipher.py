@@ -8,4 +8,4 @@ for char in message:
     else:
         new_message +=  char
     
-print("The encripted sentence is:" + new_message)
+print("The encrypted sentence is:" + new_message)
